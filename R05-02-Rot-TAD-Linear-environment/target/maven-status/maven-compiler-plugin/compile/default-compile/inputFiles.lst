@@ -1,0 +1,10 @@
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueUsingStack.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/queue/CircularQueue.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueImpl.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/stack/StackUnderflowException.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/stack/StackImpl.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueOverflowException.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/stack/StackOverflowException.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueUnderflowException.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/queue/Queue.java
+/root/LEDA22.2/R05-02-Rot-TAD-Linear-environment/src/main/java/adt/stack/Stack.java
